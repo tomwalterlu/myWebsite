@@ -15,5 +15,6 @@
   "bugs": {
     "url": "https://github.com/tomwalterlu/myWebsite/issues"
   },
-  "homepage": "https://github.com/tomwalterlu/myWebsite#readme"
+  "homepage": "https://github.com/tomwalterlu/myWebsite#readme",
+  "dependencies": {}
 }
